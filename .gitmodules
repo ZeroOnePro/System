@@ -4,3 +4,6 @@
 [submodule "Operating-System"]
 	path = Operating-System
 	url = https://github.com/Itsbeenalongday/Operating-System.git
+[submodule "System_programming"]
+	path = System_programming
+	url = https://github.com/Itsbeenalongday/System_programming.git
