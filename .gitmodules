@@ -7,3 +7,6 @@
 [submodule "System_programming"]
 	path = System_programming
 	url = https://github.com/Itsbeenalongday/System_programming.git
+[submodule "BLESSROOM"]
+	path = BLESSROOM
+	url = https://github.com/Itsbeenalongday/BLESSROOM.git
