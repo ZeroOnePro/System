@@ -10,3 +10,6 @@
 [submodule "BLESSROOM"]
 	path = BLESSROOM
 	url = https://github.com/Itsbeenalongday/BLESSROOM.git
+[submodule "Socket-Programming"]
+	path = Socket-Programming
+	url = https://github.com/Itsbeenalongday/Socket-Programming.git
