@@ -36,5 +36,6 @@ System 공부 및 프로젝트
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jurem&repo=SicTools&theme=blue-green)](https://github.com/jurem/SicTools.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linuxs&theme=blue-green)](https://github.com/torvalds/linux.git)
 
 </div>
