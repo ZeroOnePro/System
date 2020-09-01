@@ -13,6 +13,3 @@
 [submodule "Socket-Programming"]
 	path = Socket-Programming
 	url = https://github.com/Itsbeenalongday/Socket-Programming.git
-[submodule "SicTools"]
-	path = SicTools
-	url = https://github.com/Itsbeenalongday/SicTools.git
