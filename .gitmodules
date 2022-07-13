@@ -4,9 +4,9 @@
 [submodule "Operating-System"]
 	path = Operating-System
 	url = https://github.com/Itsbeenalongday/Operating-System.git
-[submodule "System_programming"]
-	path = System_programming
-	url = https://github.com/Itsbeenalongday/System_programming.git
 [submodule "BLESSROOM"]
 	path = BLESSROOM
 	url = https://github.com/Itsbeenalongday/BLESSROOM.git
+[submodule "System-Programming"]
+	path = System-Programming
+	url = git@github.com:ZeroOnePro/System-Programming.git
